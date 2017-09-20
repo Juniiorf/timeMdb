@@ -1,4 +1,4 @@
-# Desafio Full-Stack da Máquina do Bem
+# Desafio Full-Stack NODE.JS da Máquina do Bem
 
 **Proposta:**  
 Criar um App com API (BackEnd) e Client (FrontEnd) que cadastre e liste os endereços dos doadores.
